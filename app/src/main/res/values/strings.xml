@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LoginAndRegister</string>
+    <string name="welcome">WELCOME</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+    <string name="parent">Parent</string>
+    <string name="parentHome">Parent Home</string>
+    <string name="studentHome">Student Home</string>
+    <string name="teacherHome">Teacher Home</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="full_name">enter your full name</string>
+    <string name="grade">enter your grade</string>
+    <string name="create_register">Create a new account? Register</string>
+    <string name="student_name">student full name</string>
+    <string name="teacher_name">teacher name</string>
+    <string name="student_grade">student grade</string>
+    <string name="registration_parent">Registration Parent</string>
+    <string name="registration_student">Registration Student</string>
+    <string name="registration_teacher">Registration Teacher</string>
+    <string name="already_login">Already have an account? Login</string>
+
+</resources>
